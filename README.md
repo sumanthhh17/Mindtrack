@@ -1,5 +1,5 @@
 
-🧠 MindTrack – Your Mental Health Companionn
+🧠 MindTrack – Your Mental Health Companion
 
 MindTrack is a beautifully designed, full-featured mental wellness tracker built with React and Tailwind CSS. It empowers users to reflect on their emotions daily, identify trends, and gain actionable insights — all within a calming and intuitive interface.
 
